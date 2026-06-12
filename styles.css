@@ -1,0 +1,17 @@
+.tarjeta ul{
+    list-style:none;
+    padding-left:0;
+}
+
+.tarjeta ul li{
+    margin:10px 0;
+    padding:10px;
+    border-left:4px solid #00ff00;
+    background:rgba(0,255,0,0.08);
+    border-radius:8px;
+}
+
+.tarjeta h2{
+    color:#00ff00;
+    text-shadow:0 0 10px #00ff00;
+}
